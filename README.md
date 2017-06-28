@@ -3,7 +3,7 @@
 > A Vue.js project
 
 # Source
-From [5 Practical Examples For Learning Vue.js] (https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js)
+From [5 Practical Examples For Learning Vue.js](https://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js)
 ## Build Setup
 
 ``` bash
